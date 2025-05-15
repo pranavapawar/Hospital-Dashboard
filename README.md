@@ -55,4 +55,4 @@ Customer Satisfaction: Track feedback volume for each doctor to identify perform
 Health Management: Analyze diagnosis trends to identify common health issues and plan medical resource allocation.<br>
 
 ### 6.	Screenshots / Demos
-![📊 Dashboard Preview](https://github.com/pranavapawar/Ola-Dashboard/blob/main/ola%201.png)
+![📊 Dashboard Preview](https://github.com/pranavapawar/Hospital-Dashboard/blob/main/Hos.png)
